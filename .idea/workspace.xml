@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eb0ee964-249f-4746-8d88-866f80fd35b9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/AddCountry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/AddSchool.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Apropos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/CommentPostuler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/ConnexionModal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Contact.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Cooperation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Dossier.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Inscription.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/MesCandidatures.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Postuler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/SchoolItem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/Sidebar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/Components/UniversityUpdate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/api/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/documents/5384a9a66ccf4.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/http-common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/images/Profil_Avatar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/images/emi_b.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/services/SchoolService.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schoolpedia-frontend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/schoolpedia-frontend/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schoolpedia-frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/schoolpedia-frontend/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schoolpedia-frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/schoolpedia-frontend/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/schoolpedia-frontend/src/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/schoolpedia-frontend" />
+  </component>
+  <component name="ProjectId" id="1sfAxF1zGGIYADwyw4cpwVZVc3x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/schoolpedia-frontend/src/images" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\PROJETS\SchoolPedia\schoolpedia-frontend\src\images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Documents\PROJETS\SchoolPedia\schoolpedia-frontend\src\components" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eb0ee964-249f-4746-8d88-866f80fd35b9" name="Default Changelist" comment="" />
+      <created>1621253520464</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621253520464</updated>
+      <workItem from="1621253522417" duration="1151000" />
+      <workItem from="1621719858501" duration="19646000" />
+      <workItem from="1622128290534" duration="30242000" />
+      <workItem from="1622984677604" duration="5413000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
